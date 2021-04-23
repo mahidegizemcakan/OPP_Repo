@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPP_Repo", "OPP_Repo\OPP_Repo.csproj", "{D2628784-7E4C-4206-AD8F-3DD2E998B3A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPP_Repo.Abstraction", "OPP_Repo.Abstraction\OPP_Repo.Abstraction.csproj", "{F8772180-5B5C-45D3-A7DC-9D7A5719A69F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2628784-7E4C-4206-AD8F-3DD2E998B3A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2628784-7E4C-4206-AD8F-3DD2E998B3A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2628784-7E4C-4206-AD8F-3DD2E998B3A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2628784-7E4C-4206-AD8F-3DD2E998B3A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8772180-5B5C-45D3-A7DC-9D7A5719A69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8772180-5B5C-45D3-A7DC-9D7A5719A69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8772180-5B5C-45D3-A7DC-9D7A5719A69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8772180-5B5C-45D3-A7DC-9D7A5719A69F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B47552D2-BDE2-4A2F-91C6-2E1E16624A7B}
+	EndGlobalSection
+EndGlobal
