@@ -7,6 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPP_Repo", "OPP_Repo\OPP_Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPP_Repo.Abstraction", "OPP_Repo.Abstraction\OPP_Repo.Abstraction.csproj", "{F8772180-5B5C-45D3-A7DC-9D7A5719A69F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPP_Repo.Interface", "OPP_Repo.Interface\OPP_Repo.Interface.csproj", "{D7009025-FF4B-458E-AD7D-05EB91E847DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPP_Repo.Polymorphism", "OPP_Repo.Polymorphism\OPP_Repo.Polymorphism.csproj", "{A06C4A30-FB74-4E47-8305-8BE516FF269C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPP_Repo.Encupsulation", "OPP_Repo.Encupsulation\OPP_Repo.Encupsulation.csproj", "{22DEC8B8-277C-4FFD-A994-E6B17C0CAA52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPP_Repo.Inheritance", "OPP_Repo.Inheritance\OPP_Repo.Inheritance.csproj", "{537EE64C-5876-484D-BAED-62BDD4563D86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +29,22 @@ Global
 		{F8772180-5B5C-45D3-A7DC-9D7A5719A69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8772180-5B5C-45D3-A7DC-9D7A5719A69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8772180-5B5C-45D3-A7DC-9D7A5719A69F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7009025-FF4B-458E-AD7D-05EB91E847DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7009025-FF4B-458E-AD7D-05EB91E847DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7009025-FF4B-458E-AD7D-05EB91E847DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7009025-FF4B-458E-AD7D-05EB91E847DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06C4A30-FB74-4E47-8305-8BE516FF269C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06C4A30-FB74-4E47-8305-8BE516FF269C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06C4A30-FB74-4E47-8305-8BE516FF269C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06C4A30-FB74-4E47-8305-8BE516FF269C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22DEC8B8-277C-4FFD-A994-E6B17C0CAA52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DEC8B8-277C-4FFD-A994-E6B17C0CAA52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DEC8B8-277C-4FFD-A994-E6B17C0CAA52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DEC8B8-277C-4FFD-A994-E6B17C0CAA52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537EE64C-5876-484D-BAED-62BDD4563D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537EE64C-5876-484D-BAED-62BDD4563D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537EE64C-5876-484D-BAED-62BDD4563D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537EE64C-5876-484D-BAED-62BDD4563D86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
